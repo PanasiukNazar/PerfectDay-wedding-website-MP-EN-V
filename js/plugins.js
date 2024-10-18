@@ -4788,7 +4788,7 @@ https://github.com/imakewebthings/jquery-waypoints/blob/master/licenses.txt
             self.context.clearRect(0, 0, self.width, self.height);
             self.context.lineWidth = 5;
             self.context.fillStyle = '#000000';
-            self.context.strokeStyle = '#ED254EFF';
+            self.context.strokeStyle = '#F2AA4CFF';
             self.context.textAlign = 'center';
             self.context.fillText(
                 self.loaded + '%',
