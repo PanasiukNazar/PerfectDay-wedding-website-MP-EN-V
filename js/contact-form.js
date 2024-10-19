@@ -24,7 +24,7 @@ function sendForm() {
 }
 
 function sendReview() {
-    const newPath = 'thankyou.html';
+    const newPath = 'thanks.html';
 
     // Get the input value
     const emailInput = document.getElementById('email').value;
